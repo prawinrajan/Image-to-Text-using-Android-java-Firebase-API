@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "596390378242",
+    "firebase_url": "https://text-c15d1.firebaseio.com",
+    "project_id": "text-c15d1",
+    "storage_bucket": "text-c15d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596390378242:android:7156bda3ff17d61aca201b",
+        "android_client_info": {
+          "package_name": "com.mydreamworld.text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596390378242-2o13ppnth90gqnoacs4o26kt34d3dr9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mydreamworld.text",
+            "certificate_hash": "3ef967048dcc0d008b4c81f88cf8a5e3928aec8f"
+          }
+        },
+        {
+          "client_id": "596390378242-ah2ecfe7v8ms6cs5avcb7127qt8fd0or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtMJSfBNFXztUPD6oqJd8dgxdq_sS_Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596390378242-ah2ecfe7v8ms6cs5avcb7127qt8fd0or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
