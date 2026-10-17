@@ -12,3 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+
+# Secrets / Firebase config
+google-services.json
+credentials.json
